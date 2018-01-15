@@ -1,2 +1,2 @@
 # Intel_microcode
-Information on the latest microcode updates from Intel and VMware
+Information on the latest microcode updates from Intel and VMware.
